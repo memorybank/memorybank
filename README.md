@@ -1,11 +1,9 @@
 - 👋 Hi, I’m @memorybank
-- 👀 I’m interested in ...
+- 👀 I’m interested in
   - Metaverse / Virtual reality / Graphics
   - Cloud / Distributed system
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
   - Real time rendering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 memorybank/memorybank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
